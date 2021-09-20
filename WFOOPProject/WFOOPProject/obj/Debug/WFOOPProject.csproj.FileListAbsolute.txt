@@ -1,0 +1,16 @@
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\bin\Debug\WFOOPProject.exe.config
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\bin\Debug\WFOOPProject.exe
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\bin\Debug\WFOOPProject.pdb
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.Properties.Resources.resources
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.exe
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.pdb
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.SimpleCalc.resources
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.DashboardForm.resources
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.IP4Validator.resources
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.TempApp.resources
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.MoneyConversion.resources
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.LottoMax.resources
+C:\Users\gabri\source\repos\WFOOPProject\WFOOPProject\obj\Debug\WFOOPProject.Lotto649.resources
